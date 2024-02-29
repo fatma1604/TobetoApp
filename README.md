@@ -5,7 +5,11 @@ Tobeto Mobil Uygulaması, Tobeto Eğitim Platformu'nun mobil versiyonudur. Kulla
 
 # Features
 
-## Ekip üyeleri
+# Feedback
+
+# Build Process
+
+## Contributors
 
 * [Emirhan Balcı](https://github.com/balciemirhan)
 
