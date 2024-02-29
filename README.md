@@ -13,6 +13,7 @@ Tobeto Mobil Uygulaması, Tobeto Eğitim Platformu'nun mobil versiyonudur. Kulla
 -  Eğitimleri inceleme ve katılma
 
 <img width="700" alt="login page" src="https://github.com/balciemirhan/TobetoApp/assets/120199233/e8432588-f7f3-4433-9684-a6d1085f0ab7">
+<a href="[https://opencollective.com/git-point/sponsor/3/website](https://github.com/balciemirhan/TobetoApp/assets/120199233/06661f07-0197-4c97-8e4b-c5a1be827c24)" target="_blank"><img src="https://opencollective.com/git-point/sponsor/3/avatar.svg"></a>
 
 ## Katkıda Bulunanlar
 
