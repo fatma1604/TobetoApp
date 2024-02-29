@@ -2,6 +2,7 @@
 
 # Kısa Bir Bakış
 Tobeto Mobil Uygulaması, Tobeto Eğitim Platformu'nun mobil versiyonudur. Kullanıcıların yüksek kaliteli ve etkileşimli bir deneyimle eğitim içeriklerine ve Tobeto'nun diğer özelliklerine anında erişim sağlar.
+## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
 
 # Özellikler
 -  Responsive tasarımla, her cihaza uygun kolay kullanım
